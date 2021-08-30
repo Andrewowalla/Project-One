@@ -1,0 +1,35 @@
+h1 {
+    text-align: left;
+    color: #009;
+    margin-bottom: .3em;
+    text-decoration: underline;
+ }
+ .textbox {
+    background: lightgreen;
+    font: 18px;
+ }
+ body {
+background-image: url(images/lo.png);
+ }
+ div{
+ background-image: url('lo.jpg');
+ }
+ rounded{
+   border-radius: 50px;
+   padding:1px ;
+ }
+ div{
+    width: 500px;
+    padding:50px;
+    margin: 30px;
+    text-align:left;
+    box-sizing: unset;
+    border: 3px solid green;
+ }
+ img{
+    border-radius: 50%;
+    float: left;}
+ footer{
+    border: 3px solid black;
+    background: color grey;
+ }
