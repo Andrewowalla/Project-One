@@ -11,9 +11,7 @@ h1 {
  body {
 background-image: url(images/lo.png);
  }
- div{
- background-image: url('lo.jpg');
- }
+ 
  rounded{
    border-radius: 50px;
    padding:1px ;
